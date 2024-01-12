@@ -52,7 +52,7 @@ impl SyncPluginHandler<Configuration> for MyPluginHandler {
     }
 
     fn license_text(&mut self) -> String {
-        "License text goes here.".to_string()
+        include_str!("../LICENSE").to_string()
     }
 
     fn resolve_config(
