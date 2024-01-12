@@ -1,6 +1,6 @@
 # dprint-plugin-wgsl
 
-[![](https://img.shields.io/crates/v/dprint-plugin-toml.svg)](https://crates.io/crates/dprint-plugin-toml)
+[![](https://img.shields.io/crates/v/dprint-plugin-wgsl.svg)](https://crates.io/crates/dprint-plugin-wgsl)
 
 [WGSL Shading Language](https://gpuweb.github.io/gpuweb/wgsl) formatting plugin for [dprint](https://github.com/dprint/dprint).
 
